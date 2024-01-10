@@ -167,7 +167,7 @@ cd /mnt/efs && sudo docker-compose up -d
   - Crie o Auto Scaling
 
   # Passo final - Teste
-  - Para testar nossas instancias, copie o dns do nosso load balancer e copie no google
+  - Para testar nossas instancias, copie o dns do nosso load balancer e cole no google
   - Deverá aparecer a seguinte tela de configuração do wordpress:
   ![image](https://github.com/luizcortezdev/atividade_docker_aws/assets/141674600/8952cb60-9eec-4157-b8b6-378402944f8f)
 
