@@ -37,10 +37,10 @@ Wordpress
 
 - SG - Instancias EC2:
   
-| First Header  | Second Header |
+| Porta  | Origem |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 80  | 0.0.0.0  |
+| 22  | 0.0.0.0  |
 
 - SG - EFS:
   
